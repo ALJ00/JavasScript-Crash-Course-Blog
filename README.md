@@ -53,6 +53,13 @@ prompt()the user  for a direction and if I have a valid direction then send it b
 
 However you have to check the address and check that the room is correct.
 
+## Reading about JavaScript and the blog
 
+The last days of the may and the course I was reading about JavaScript and learning the code. It similar to Java but It 
+has small differences that should be studied more thoroughly.
 
+## Conclusion
+
+In conclusion about this trismester the practice it was interesting because we had tu study new leguage of programming, 
+JavaScript and to learn eglish is a good practice because it had 
 
