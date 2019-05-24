@@ -18,7 +18,7 @@ thing that I had to do is the room's objetcs.
 
 ## Room's function
 
-On March 22, I continued with my project. I started making the room's of my Room Adventure Game so I continued making 
+On March 22nd, I continued with my project. I started making the room's of my Room Adventure Game so I continued making 
 the room's function. In programming is very common work with functions, Objects are encapsulating to re-use in others 
 contexts of programming.
 
@@ -29,3 +29,19 @@ contexts of programming.
 Not only that but also I started to make the player Object.
 
 ![](images/player.png)
+
+## The base of programming
+
+On May 5th, unfortunately I was sick and I had to stay at home. Despite this, I took the opportunity to read the chapter 8
+that it is about some little questions about programming like loops, arrays, operators... These aspects are the basis of 
+any programming language.
+
+![](images/base.png)
+
+
+## Save the code 
+
+On April 19th, at the time of log in in rpl.it I was able to verify that all the work I had previously done had lost it 
+due to not saving the file, therefore, it is very important in programming to save any changes made in a project.
+
+## Asking for the directions
