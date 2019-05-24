@@ -32,7 +32,7 @@ Not only that but also I started to make the player Object.
 
 ## The base of programming
 
-On May 5th, unfortunately I was sick and I had to stay at home. Despite this, I took the opportunity to read the chapter 8
+On April 5th, unfortunately I was sick and I had to stay at home. Despite this, I took the opportunity to read the chapter 8
 that it is about some little questions about programming like loops, arrays, operators... These aspects are the basis of 
 any programming language.
 
@@ -45,3 +45,14 @@ On April 19th, at the time of log in in rpl.it I was able to verify that all the
 due to not saving the file, therefore, it is very important in programming to save any changes made in a project.
 
 ## Asking for the directions
+
+On May 3th, I learnead about to ask the player what direction they want to go in. I only needed one function, getDirection(),
+prompt()the user  for a direction and if I have a valid direction then send it back using return.
+
+![](images/getDirection.png)
+
+However you have to check the address and check that the room is correct.
+
+
+
+
