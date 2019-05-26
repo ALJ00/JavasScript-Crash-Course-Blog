@@ -60,6 +60,7 @@ has small differences that should be studied more thoroughly.
 
 ## Conclusion
 
-In conclusion about this trismester the practice it was interesting because we had tu study new leguage of programming, 
-JavaScript and to learn eglish is a good practice because it had 
+In conclusion about this trismester the practice it was interesting because we had tu study new leguage of programming. 
+JavaScript is a common programming language but it also has some features differents from others programming languages. 
+We have learned basic thinks about the Javascript but it would be better have more time to learn it.
 
