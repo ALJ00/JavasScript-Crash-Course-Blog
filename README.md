@@ -55,7 +55,7 @@ However you have to check the address and check that the room is correct.
 
 ## Reading about JavaScript and the blog
 
-The last days of the may and the course I was reading about JavaScript and learning the code. It similar to Java but It 
+The last days of May and the course I was reading about JavaScript and learning the code. It similar to Java but It 
 has small differences that should be studied more thoroughly.
 
 ## Conclusion
